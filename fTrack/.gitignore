@@ -1,2 +1,2 @@
 app/App_Resources/Android/google-services.json
-node_modules/
+node_modules/*
